@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Health Companion</string>
+    <string name="action_go">Go</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Write a symptoms</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="health_companion_title">Conversation with Cobi</string>
+    <string name="enter_your_inquiry">Type a message</string>
+    <string name="send_inquiry">Send</string>
+    <string name="patient">Me</string>
+    <string name="cobi">Cobi</string>
+    <string name="share_message">share message</string>
+</resources>
